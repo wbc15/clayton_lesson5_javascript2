@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(November 02, 2018)
 
 ### Student Name:  
-(First and Last Name)
+(William Clayton)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(In this project we finished writing the code for a program that converts currency from USD to 14 other global currencies.)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://wbc15.github.io/clayton_lesson5_javascript2/)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (how to master switch statements)
+2. (how to properly use breaks)
+3. (how to master making math problems into a computer program)
 
